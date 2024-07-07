@@ -1,14 +1,15 @@
 # Cônicas
 
 Consiste em um programa criado em linguagem Python no Jupyter Notebook para informar qual é o tipo da cônica da equação digitada.
-Inicialmente é importante deixar claro o que é uma seção cônica.
-Ao cortar um cone por um plano, a interseção entre eles será uma curva. Mas o tipo dessa curva dependerá de como estava o plano que cortou o cone.
-Dependendo da inclinação desse plano, a curva encontrada pode ser uma parábola, uma elipse ou uma hipérbole. 
+
+Inicialmente é importante deixar claro o que é uma seção cônica. \
+Ao cortar um cone por um plano, a interseção entre eles será uma curva. Mas o tipo dessa curva dependerá de como estava o plano que cortou o cone.\
+Dependendo da inclinação desse plano, a curva encontrada pode ser uma parábola, uma elipse ou uma hipérbole. \
 Essa curva terá uma equação. Existe um teorema que permite dizer qual é a categoria da seção cônica(curva) simplesmente fazendo cálculos com os coeficientes da equação.
 Esse teorema é implementado por meio de condicionais dentro do código Python.
 Além disso, ao final, é plotado o gráfico da curva da equação informada.
 
-Vamos a um exemplo prático:
+Vamos a um exemplo prático.
 
 ## Uso do programa para identificar uma elipse
 
